@@ -11,6 +11,7 @@ hashtag#Project_Highlights:
 
 🎨 PowerPoint Presentation: Created an informative and visually appealing presentation to showcase the project findings.
 Key Findings:
+
 #Identified the top 5 most ordered pizza types along with their quantities.
 #Determined the most frequently ordered pizza size.
 #Found the pizza with the highest price tag.
