@@ -25,7 +25,7 @@ The aim of this project is to analyze pizza sales data to uncover trends and ins
 ## Technologies Used
 
 - **MySQL**: For data retrieval, calculations, and integration.
-- **Power BI**: For creating interactive visualizations and dashboards (if applicable).
+- **Power BI**: For creating interactive visualizations and dashboards.
 - **Excel**: For data preparation and preliminary analysis.
 
 ## Getting Started
